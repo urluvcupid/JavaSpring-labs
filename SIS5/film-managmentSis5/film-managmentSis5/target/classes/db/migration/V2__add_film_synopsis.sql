@@ -1,0 +1,2 @@
+ALTER TABLE films
+    ADD COLUMN synopsis VARCHAR(1000);
